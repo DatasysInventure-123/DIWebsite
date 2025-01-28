@@ -1,0 +1,21 @@
+
+@import "raleway.css";
+@import "font-awesome.min.css";
+@import "simple-line-icons.css";
+
+/* Basic css */
+
+@import "bootstrap.css";
+@import "maincss.css";
+
+@import "jquery-ui.css";
+@import "animate.css";
+
+/* Additional css */
+
+@import "owl.carousel.css";
+@import "jquery.fancybox.css";
+@import "owl.transitions.css";
+
+
+
